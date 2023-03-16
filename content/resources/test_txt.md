@@ -1,6 +1,6 @@
 ---
 content_type: resource
-description: ''
+description: random
 file: /media/courses/site15/test.txt
 file_type: text/plain
 image_metadata:
