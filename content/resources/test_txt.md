@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: random
-file: /media/courses/site15/test.txt
+file: /media/courses/site15/test2.txt
 file_type: text/plain
 image_metadata:
   caption: ''
