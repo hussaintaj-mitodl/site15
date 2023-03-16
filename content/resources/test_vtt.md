@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/site15/test.vtt
+file: /media/courses/15-site15-spring-2022/test.vtt
 file_type: text/vtt
 image_metadata:
   caption: ''
