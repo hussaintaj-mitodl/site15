@@ -1,8 +1,8 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/15-site15-spring-2022/test.pdf
-file_type: application/pdf
+file: /media/courses/15-site15-spring-2022/test3.txt
+file_type: text/plain
 image_metadata:
   caption: ''
   credit: ''
@@ -10,8 +10,8 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: test
-uid: 82548a63-eaa3-4b15-86cb-0d7c95083dc6
+title: test3.txt
+uid: f7cc3180-4dc6-47b9-896b-0ac6c5230d4b
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
