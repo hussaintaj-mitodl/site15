@@ -1,17 +1,17 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/15-site15-spring-2022/test.pdf
-file_type: application/pdf
+file: /media/courses/15-site15-spring-2022/signature_hussain_taj2.jpeg
+file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-resourcetype: Document
-title: test
-uid: 82548a63-eaa3-4b15-86cb-0d7c95083dc6
+resourcetype: Image
+title: signature_hussain_taj.jpeg
+uid: 8b46d896-e05b-4941-bc07-124dd80b9187
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
